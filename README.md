@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielBeeck
 - 👀 I’m interested in learning as much as i can
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python 
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python 
 
 - 📫 How to reach me: daniel.beck99@outlook.de
 
