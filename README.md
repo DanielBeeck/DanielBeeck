@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielBeeck
 - 👀 I’m interested in learning as much as i can
-- 🌱 I’m currently learning CSS, JavaScript and Python
+- 🌱 I’m currently learning Node.js and Python
 
-- 📫 How to reach me: daniel.beck99@outlook.de
+- 📫 How to reach out to me: daniel.beck99@outlook.de
 
 <!---
 DanielBeeck/DanielBeeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
